@@ -1,6 +1,6 @@
 class Main {
     public static void main(String[] args) {
-      System.out.println(Strings.isPalindromePermutation("ddaaggrrh"));
+      System.out.println("Hello World and much more");
     }
   
   }
